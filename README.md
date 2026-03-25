@@ -46,18 +46,6 @@ I love building things **from scratch**, solving problems, and optimizing system
 
 ---
 
-### ☕ Support Me
-
-If you like my work 😄  
-
-<a href="#" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px">
-</a>
-
-<img align="right" height="250" width="375" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
----
-
 ### 🧠 Talking about Personal Stuff
 
 - 🛠️ Working with **HTML, CSS, JS, PHP, MySQL, JAVA, PYTHON & JSX**
