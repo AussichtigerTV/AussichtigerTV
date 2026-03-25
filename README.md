@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [AussichtigerTV!](https://github.com/AussichtigerTV)
+# Hey there 👋, I'm [AussichtigerTV!](https://github.com/AussichtigerTV)
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.ovention.de)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -11,14 +11,25 @@
 I'm a **student & tech enthusiast from Germany 🇩🇪**, passionate about  
 🖥️ **servers**, 🌐 **web development**, and ⚙️ **building my own systems**.
 
+---
+
 💡 Currently, I'm working on projects involving:
 - 🌐 Websites with authentication systems & databases  
 - 🖥️ Server hosting (Proxmox, home servers)  
 - 🎮 Minecraft systems with web integration  
 
+---
+
+⚙️ Current Projects:
+- 🎮 PrimeCity (Roblox, Developer, Founder)
+- 👁️ Lunar RP VC (Roblox, Development)
+- 🎶 Ovention (Minecraft, Infrastructure, Developer, Founder)
+- ☁️ Homelab Proxmox (Server for personal use)
+
 I love building things **from scratch**, solving problems, and optimizing systems.  
 
-> 🧠 *"If it works, optimize it. If it breaks, learn from it."*
+> 🧠 *"If it works, don't touch it. If it breaks, learn from it."*
+> 🛋️ *"If something isn't working, a restart is always a good idea."*
 
 ---
 
