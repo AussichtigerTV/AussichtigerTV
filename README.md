@@ -120,27 +120,6 @@ I love building things **from scratch**, solving problems, and optimizing system
 
 ---
 
-#### 📊 Monitoring & Dashboards
-<p>
-➡️ Grafana • InfluxDB • Custom dashboards  
-</p>
-<p>
-➡️ Visualizing server stats, network activity & performance data  
-</p>
-
----
-
-#### 🎮 Game Development & Systems
-<p>
-➡️ Minecraft Plugins • Web Integration • Player Systems  
-</p>
-<p>
-➡️ Building register/login systems connected to databases  
-➡️ Syncing in-game data with web platforms  
-</p>
-
----
-
 #### 🧠 Currently Learning / Exploring
 <p>
 ➡️ Advanced backend systems  
