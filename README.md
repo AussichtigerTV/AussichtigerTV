@@ -67,10 +67,86 @@ I love building things **from scratch**, solving problems, and optimizing system
 
 ### 🧰 Languages & Tools
 
+#### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python,mysql,mongodb,linux,git,react,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
+</p>
+<p>
+➡️ Building web apps, login systems, dashboards & automation scripts  
 </p>
 
+---
+
+#### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react" />
+</p>
+<p>
+➡️ Creating modern websites, APIs, authentication systems & dynamic dashboards  
+</p>
+
+---
+
+#### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<p>
+➡️ Managing user systems, backend data & scalable project structures  
+</p>
+
+---
+
+#### 🖥️ Server & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+<p>
+➡️ Running home servers, virtual machines & services using Proxmox  
+➡️ Hosting multiple systems like Pi-hole, Grafana, InfluxDB & web services  
+➡️ Building efficient and lightweight server environments  
+</p>
+
+---
+
+#### ⚙️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,aws" />
+</p>
+<p>
+➡️ Version control, deployments & system management  
+➡️ Working with automation, monitoring & optimization tools  
+</p>
+
+---
+
+#### 📊 Monitoring & Dashboards
+<p>
+➡️ Grafana • InfluxDB • Custom dashboards  
+</p>
+<p>
+➡️ Visualizing server stats, network activity & performance data  
+</p>
+
+---
+
+#### 🎮 Game Development & Systems
+<p>
+➡️ Minecraft Plugins • Web Integration • Player Systems  
+</p>
+<p>
+➡️ Building register/login systems connected to databases  
+➡️ Syncing in-game data with web platforms  
+</p>
+
+---
+
+#### 🧠 Currently Learning / Exploring
+<p>
+➡️ Advanced backend systems  
+➡️ Automation & infrastructure scaling  
+➡️ AI / modern tech integrations  
+</p>
 ---
 
 ### ⚡ GitHub Stats
