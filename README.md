@@ -126,6 +126,7 @@ I love building things **from scratch**, solving problems, and optimizing system
 ➡️ Automation & infrastructure scaling  
 ➡️ AI / modern tech integrations  
 </p>
+
 ---
 
 ### ⚡ GitHub Stats
